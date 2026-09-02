@@ -30,8 +30,9 @@ h2 {
 	font: 1.6em Georgia, "Times New Roman", Times, serif;
 	margin-bottom: .2em;
 }
+/* I also made this repectively smaller */
 h3 {
-	font-size: 1.2em;
+	font-size: 0.8em;
 }
 p {
 	margin-bottom: 1em;

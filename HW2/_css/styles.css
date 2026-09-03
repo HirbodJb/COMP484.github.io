@@ -19,20 +19,17 @@ body {
 	background: white;
 	line-height: 1.8;
 }
-/* change the font size in h1 it was 1.6 and I chaned it to 3.2. Also changed the font family*/ 
 h1 {
-	font: 3.2em Georgia, "Times New Roman", Times, serif;
+	font: 1.6em Verdana, Geneva, sans-serif;
 	margin-bottom: .4em;
 	color: rgb(83, 104, 138);
 }
-/* changed the font size to 1.6em to be smaller*/ 
 h2 {
-	font: 1.6em Georgia, "Times New Roman", Times, serif;
+	font: 3.2em Georgia, "Times New Roman", Times, serif;
 	margin-bottom: .2em;
 }
-/* changed the font to be consistent with the other headings*/
 h3 {
-	font: 1.2em Georgia, "Times New Roman", Times, serif;
+	font-size: 1.2em;
 }
 p {
 	margin-bottom: 1em;

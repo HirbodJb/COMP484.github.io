@@ -1,6 +1,7 @@
 # COMP 484
 
-This repository contains my COMP 484 assignments and projects. Please click the blue links under the GitHub Pages and Homework sections to access the main site and each individual homework assignment. (✅ = Finished HW / 🚧 = In Progress HW)
+This repository contains my COMP 484 assignments and projects. Please click the blue links under the GitHub Pages and Homework sections to access the main site and each individual homework assignment. 
+(✅ = Finished HW / 🚧 = In Progress HW)
 
 ## GitHub Pages
 

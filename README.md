@@ -8,5 +8,5 @@ This repository contains my COMP 484 assignments and projects. Please click the 
 
 ## Homework
 
-- [Homework 1](https://hirbodjb.github.io/COMP484.github.io/HW1/)
-- [Homework 2](https://hirbodjb.github.io/COMP484.github.io/HW1/)
+- [Homework 1](https://hirbodjb.github.io/COMP484.github.io/HW1/) ✅
+- [Homework 2](https://hirbodjb.github.io/COMP484.github.io/HW1/) 🚧 

@@ -13,7 +13,7 @@
 
 2) How the Structural Tags Are Used: 
 
-- header: The page header contains the course name, page title, and navigation.
+- header: The page header contains the course name, page title, and navigation. Used for introductory content or navigation links. 
 - nav: Groups the links to other pages in the site. Indicates navigation. 
 - main: identifies the page's primary content and contains the articles, headers, and sections
 - article: Groups the complete instructional content about structuring pages.Has multiple sections inside it. There is a second header here which introduces the article.

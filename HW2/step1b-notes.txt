@@ -1,0 +1,32 @@
+1) Document Outline:
+
+<h1> Comp 484
+    <h2> Structuring Pages
+        <h3> Conveying meaning through structure
+        <h3> Sectioning elements
+        <h3> Document outlines
+            <h4> W3C Warning
+        <h3> WAI-ARIA Roles
+
+
+==========================================================================
+
+2) How the Structural Tags Are Used: 
+
+- header: The page header contains the course name, page title, and navigation.
+- nav: Groups the links to other pages in the site. Indicates navigation. 
+- main: identifies the page's primary content and contains the articles, headers, and sections
+- article: Groups the complete instructional content about structuring pages.Has multiple sections inside it. There is a second header here which introduces the article.
+- section: divides the article into multiple sections such as "Sectioning elements," “Document outlines,” and “WAI-ARIA Roles.” Contains aside.
+- aside: Contains the “W3C Warning.” It is inside a section because warning relates to that topic. 
+- footer: Contains the CSUN link and address. 
+
+==========================================================================
+
+3) ARIA Roles:
+
+- banner: identifies the page header.
+- navigation: identifies the navigation part of page, the links. 
+- main: identifies the primary content.
+- complementary: identifies the aside. 
+- contentinfo: identifies the footer.
